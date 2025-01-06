@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/navarro-juan/React-Sign-form-app.git/static/css/main.35c30e92.css",
+    "main.js": "/navarro-juan/React-Sign-form-app.git/static/js/main.31188701.js",
+    "index.html": "/navarro-juan/React-Sign-form-app.git/index.html",
+    "main.35c30e92.css.map": "/navarro-juan/React-Sign-form-app.git/static/css/main.35c30e92.css.map",
+    "main.31188701.js.map": "/navarro-juan/React-Sign-form-app.git/static/js/main.31188701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c30e92.css",
+    "static/js/main.31188701.js"
+  ]
+}
